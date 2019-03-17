@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="new_field_1" label="New field 1" language="en" table="x_58872_needit_needit">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>new_field_1</element>
